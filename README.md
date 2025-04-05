@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shweta Jha
-- 👀 I’m interested in Data Science and Software Development
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on AI/ML projects
+- 👀 I’m interested in Data Analytics and Artificial Intelligence
+- 🌱 I’m currently majoring in Computer Science
+- 💞️ I’m looking to collaborate on AI/Web projects
 - 📫 How to reach me on my linkedin Account (@heyitssj)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a poet!
