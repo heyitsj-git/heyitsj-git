@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics and Artificial Intelligence
 - 🌱 I’m currently majoring in Computer Science
 - 💞️ I’m looking to collaborate on AI/Web projects
-- 📫 How to reach at my mail.
+- 📫 How to reach at linkedin (@heyitsj)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a poet!
 
