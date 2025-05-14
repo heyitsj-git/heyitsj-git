@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shweta Jha
-- 👀 I’m interested in Data Analytics and Artificial Intelligence
+- 👀 I’m interested in Artificial Intelligence and MERN Stack Development.
 - 🌱 I’m currently majoring in Computer Science
 - 💞️ I’m looking to collaborate on AI/Web projects
 - 📫 How to reach at linkedin (@heyitsj)
