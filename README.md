@@ -55,8 +55,7 @@
 
 ---
 
- <!-- GitHub Contribution Snake -->
-  ![GitHub Contribution Snake](https://github.com/heyitsj-git/heyitsj-git/blob/output/snake-cool.svg)
+
   
 ### 🥂 Let's Build Something Great Together!
 
