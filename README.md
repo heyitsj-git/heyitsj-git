@@ -58,7 +58,7 @@
 > *"Coding is poetry. Every line you write builds a universe"*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0:C8A2C8,100:0072ff" />
 </p>
 
 
