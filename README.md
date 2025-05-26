@@ -49,9 +49,53 @@
 ### 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=heyitsj-git&show_icons=true&count_private=true&bg_color=000000&title_color=C8A2C8&icon_color=C8A2C8&text_color=C8A2C8" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsj-git&layout=compact&bg_color=000000&title_color=C8A2C8&icon_color=C8A2C8&text_color=C8A2C8" height="160" />
+  <a href="https://github.com/heyitsj-git">
+    <img align="center"
+         height="150em"
+         src="https://streak-stats.demolab.com?user=heyitsj-git&theme=aura&hide_border=false&border_radius=10" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/heyitsj-git">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heyitsj-git&theme=aura"
+    />
+  <a href="https://github.com/heyitsj-git">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyitsj-git&theme=aura"
+    />
+</p>
+
+<p align="center">
+  <a href="https://github.com/heyitsj-git">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyitsj-git&theme=aura"
+    />
+  <a href="https://github.com/heyitsj-git">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heyitsj-git&theme=aura&utcOffset=8"
+    />
+</p>
+
+<p align="center">
+ <a href="https://github.com/heyitsj-git">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyitsj-git&theme=aura"
+    />
+</p>
+
+<div align="center">
+  <a href = "mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://ko-fi.com/yourkofipage" target="_blank"><img src="https://img.shields.io/badge/-Donate-%230077B5?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a> 
+</div>
+
 
 ---
 
