@@ -36,9 +36,6 @@
 
 ### 🚀 Featured Projects:
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-|### 🚀 Featured Projects:
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
