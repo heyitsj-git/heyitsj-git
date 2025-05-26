@@ -2,7 +2,7 @@
 <h3 align="center" style="color:#81ecec;">Full-stack Developer | CS Undergrad</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=81ECEC&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+building+cool+projects!;Let's+collaborate+and+create!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=81ECEC&center=true&vCenter=true&width=435&lines=Welcome+to+SJ's+GitHub+Profile!;I+love+building+cool+projects!;Let's+collaborate+and+create!" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,8 +28,7 @@
 - 🎓 **Computer Science Undergraduate**  
 - ☁️ **Cloud Enthusiast**: Familiar with AWS, Azure, GCP, and Terraform  
 - 💻 **Web Developer**: Proficient in building modern and user-friendly websites  
-- 🧩 **Competitive Programmer**: Passionate about problem-solving and coding challenges  
-- 🤖 **Aspiring AI Engineer**: Exploring the realms of Artificial Intelligence and Machine Learning  
+- 🧩 **Competitive Programmer**: Passionate about problem-solving and coding challenges   
 - 🏆 **Achievements**:
   - Participated in various coding competitions  
 
@@ -40,8 +39,8 @@
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | [🤖 DeepSeek AI Clone](https://github.com/heyitsj-git/deepseek-ai-clone) | `Next.js`, `Tailwind`, `OpenAI API`,`MongoDB` | A clone of DeepSeek AI with advanced prompt UI and LLM-based search |
-| [🌤️ Weather Web App](https://github.com/heyitsj-git/Weather-Forecast-WebApp) | `HTML`, `CSS`, `Javascript` | An API-powered web app that provides precise, real-time weather forecasts across the globe.|
-| [🌾 Agri.Sol AI Website](https://github.com/heyitsj-git/Weather-Forecast-WebApp) | `HTML`, `CSS`, `Javascript`,`MongoDB`,`Express`,`NodeJS`,`Flask`,`Kaggle`  | An API-powered web app that provides precise, real-time weather forecasts across the globe.|
+| [🌤️ Weather Web App](https://github.com/heyitsj-git/Weather-Forecast-WebApp) | `HTML`, `CSS`, `Javascript`,`OpenWeather API`| An API-powered web app that provides precise, real-time weather forecasts across the globe.|
+| [🌾 Agri.Sol AI Website](https://github.com/heyitsj-git/AgriSol-WebApp) | `HTML`, `CSS`, `Javascript`,`MongoDB`,`Express`,`NodeJS`,`Flask`,`Kaggle`  | An API-powered web app that provides precise, real-time weather forecasts across the globe.|
 
 ---
 
