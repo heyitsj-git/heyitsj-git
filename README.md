@@ -47,8 +47,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyitsj-git&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsj-git&layout=compact&theme=tokyonight" height="160"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=heyitsj-git&show_icons=true&count_private=true&bg_color=F3E8FF&title_color=C8A2C8&icon_color=A67DB8&text_color=7A549F" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsj-git&layout=compact&bg_color=F3E8FF&title_color=C8A2C8&icon_color=A67DB8&text_color=7A549F" height="160"/>
 </p>
 
 ---
