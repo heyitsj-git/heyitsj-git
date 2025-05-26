@@ -24,7 +24,7 @@
 - 💻 **Web Developer**: Proficient in building modern and user-friendly websites  
 - 🧩 **Competitive Programmer**: Passionate about problem-solving and coding challenges   
 - 🏆 **Achievements**:
-  - Participated in various coding competitions   (make these texts lilac themed)
+  - Participated in various coding competitions   
 
 ---
 
