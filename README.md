@@ -1,5 +1,5 @@
-<h1 align="center" style="color:#a29bfe;">Hi there, I'm Shweta Jha 🌸</h1>
-<h3 align="center" style="color:#81ecec;">Aspiring AI Engineer | Web Developer | CS Undergrad</h3>
+<h1 align="center" style="color:#a29bfe;">Hey there, I'm Shweta Jha </h1>
+<h3 align="center" style="color:#81ecec;">Full-stack Developer | CS Undergrad</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=81ECEC&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+building+cool+projects!;Let's+collaborate+and+create!" alt="Typing SVG" />
@@ -13,10 +13,10 @@
   <a href="https://www.linkedin.com/in/heyitssj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Shweta_Jha___/" target="_blank">
+  <a href="https://leetcode.com/https://leetcode.com/u/heyitsj/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/shwetajha2001/profile" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/jhashweuwei/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
@@ -31,8 +31,7 @@
 - 🧩 **Competitive Programmer**: Passionate about problem-solving and coding challenges  
 - 🤖 **Aspiring AI Engineer**: Exploring the realms of Artificial Intelligence and Machine Learning  
 - 🏆 **Achievements**:
-  - Participated in various coding competitions and hackathons  
-  - Contributed to open-source projects  
+  - Participated in various coding competitions  
 
 ---
 
@@ -42,9 +41,7 @@
 |--------|------------|-------------|
 | [🔍 DeepSeek AI Clone](https://github.com/heyitsj-git/deepseek-ai-clone) | `Next.js`, `Tailwind`, `OpenAI API` | A clone of DeepSeek AI with advanced prompt UI and LLM-based search |
 | [📈 DevPortfolio](https://github.com/heyitsj-git/dev-portfolio) | `React`, `Framer Motion`, `SCSS` | A modern, responsive developer portfolio site |
-| [🎯 Algo-Playground](https://github.com/heyitsj-git/algo-playground) | `Python`, `C++`, `DSA` | 500+ curated DSA problems with visual explanations |
-| [🌐 ChatGPT Extension](https://github.com/heyitsj-git/chatgpt-extension) | `Chrome Extension`, `JS`, `API` | Adds ChatGPT search to your browser for instant help |
-| [📊 Resume Analyzer](https://github.com/heyitsj-git/resume-analyzer) | `Flask`, `NLP`, `Pandas` | Upload your resume and get smart feedback and insights |
+
 
 ---
 
