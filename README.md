@@ -25,16 +25,14 @@
 
 ### 🧠 About Me:
 
-- 🎓 <span style="color:#C8A2C8;">**Computer Science Undergraduate**</span>  
-- ☁️ <span style="color:#C8A2C8;">**Cloud Enthusiast**</span>: Familiar with AWS, Azure, GCP, and Terraform  
-- 💻 <span style="color:#C8A2C8;">**Web Developer**</span>: Proficient in building modern and user-friendly websites  
-- 🧩 <span style="color:#C8A2C8;">**Competitive Programmer**</span>: Passionate about problem-solving and coding challenges   
-- 🏆 <span style="color:#C8A2C8;">**Achievements**</span>:
-  - Participated in various coding competitions
+- 🎓 **Computer Science Undergraduate**  
+- ☁️ **Cloud Enthusiast**: Familiar with AWS, Azure, GCP, and Terraform  
+- 💻 **Web Developer**: Proficient in building modern and user-friendly websites  
+- 🧩 **Competitive Programmer**: Passionate about problem-solving and coding challenges   
+- 🏆 **Achievements**:
+  - Participated in various coding competitions   (make these texts lilac themed)
 
 ---
-
-### 🚀 Featured Projects:
 
 
 ### 🚀 Featured Projects:
@@ -59,7 +57,7 @@
 
 ### 🥂 Let's Build Something Great Together!
 
-> *"Coding is poetry. Every line you code, creates a universe"*
+> *"Coding is poetry. Every line you write creates a universe"*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0:C8A2C8,100:0072ff" />
