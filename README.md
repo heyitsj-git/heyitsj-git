@@ -47,15 +47,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=heyitsj-git&show_icons=true&count_private=true&bg_color=F3E8FF&title_color=C8A2C8&icon_color=A67DB8&text_color=7A549F" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsj-git&layout=compact&bg_color=F3E8FF&title_color=C8A2C8&icon_color=A67DB8&text_color=7A549F" height="160"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=heyitsj-git&show_icons=true&count_private=true&bg_color=000000&title_color=C8A2C8&icon_color=C8A2C8&text_color=C8A2C8" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsj-git&layout=compact&bg_color=000000&title_color=C8A2C8&icon_color=C8A2C8&text_color=C8A2C8" height="160" />
 </p>
 
 ---
 
 ### 🥂 Let's Build Something Great Together!
 
-> *"Coding is poetry. Every line you write builds a universe"*
+> *"Coding is poetry. Every line you code, creates a universe"*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0:C8A2C8,100:0072ff" />
