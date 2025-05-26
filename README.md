@@ -1,9 +1,15 @@
-<h1 align="center" style="color:#a29bfe;">Hey there, I'm Shweta Jha </h1>
-<h3 align="center" style="color:#81ecec;">Full-stack Developer | CS Undergrad</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF8AD0&center=true&vCenter=true&width=600&lines=Hi+I'm+Shweta+Jha+%F0%9F%8C%B8;Full-stack+Dev+%7C+CS+Undergrad+%7C+AI+Enthusiast;I+Build+Ideas+Into+Reality+%F0%9F%92%BB%F0%9F%A4%96" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=81ECEC&center=true&vCenter=true&width=435&lines=Welcome+to+SJ's+GitHub+Profile!;I+love+building+cool+projects!;Let's+collaborate+and+create!" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Girl%20Who%20Codes-%23FF8AD0?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Loves%20AI-%23D291FF?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Web%20Developer-%239B5DE5?style=flat-square&logo=html5&logoColor=white">
 </p>
+
+---
+
 
 ---
 
@@ -55,12 +61,9 @@
 
 ### 🥂 Let's Build Something Great Together!
 
-> *“The best way to predict the future is to invent it.” – Alan Kay*
+> *"Coding is poetry. Every line you write builds a universe"*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
-</p>
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&text=Made%20with%20💖%20by%20Shweta%20Jha&fontAlignY=40&desc=Keep%20Creating%20✨&descAlignY=70&fontColor=ffffff&descAlign=62"/> </p> ```
 
 
 <!---
