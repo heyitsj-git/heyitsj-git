@@ -38,9 +38,13 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [🤖 DeepSeek AI Clone](https://github.com/heyitsj-git/deepseek-ai-clone) | `Next.js`, `Tailwind`, `OpenAI API`,`MongoDB` | A clone of DeepSeek AI with advanced prompt UI and LLM-based search |
-| [🌤️ Weather Web App](https://github.com/heyitsj-git/Weather-Forecast-WebApp) | `HTML`, `CSS`, `Javascript`,`OpenWeather API`| An API-powered web app that provides precise, real-time weather forecasts across the globe.|
-| [🌾 Agri.Sol AI Website](https://github.com/heyitsj-git/AgriSol-WebApp) | `HTML`, `CSS`, `Javascript`,`MongoDB`,`Express`,`NodeJS`,`Flask`,`Kaggle`  | An API-powered web app that provides precise, real-time weather forecasts across the globe.|
+|### 🚀 Featured Projects:
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [🤖 DeepSeek AI Clone](https://github.com/heyitsj-git/deepseek-ai-clone) | ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `Next.js` ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `Tailwind` ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `OpenAI API` ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `MongoDB` | A clone of DeepSeek AI with advanced prompt UI and LLM-based search |
+| [🌤️ Weather Web App](https://github.com/heyitsj-git/Weather-Forecast-WebApp) | ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `HTML` ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `CSS` ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `JavaScript` ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `OpenWeather API` | An API-powered web app that provides precise, real-time weather forecasts across the globe. |
+| [🌾 Agri.Sol AI Website](https://github.com/heyitsj-git/AgriSol-WebApp) | ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `HTML` ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `CSS` ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `JavaScript` ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `MongoDB` ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `Express` ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `NodeJS` ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `Flask` ![#C8A2C8](https://via.placeholder.com/15/C8A2C8/000000?text=+) `Kaggle` | An AI-powered web app focused on agriculture with real-time weather and crop insights. |
 
 ---
 
