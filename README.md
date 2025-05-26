@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&customColorList=0:B76E79,100:C8A2C8" />
+---
 
 ### 🧠 About Me:
 
