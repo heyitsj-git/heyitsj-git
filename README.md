@@ -2,7 +2,7 @@
 <h3 align="center" style="color:#81ecec;">Full-stack Developer | CS Undergrad</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=#C8A2C8&center=true&vCenter=true&width=435&lines=Welcome+to+SJ's+GitHub+Profile!;I+love+building+cool+projects!;Let's+collaborate+and+create!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C8A2C8&center=true&vCenter=true&width=435&lines=Welcome+to+SJ's+GitHub+Profile!;I+love+building+cool+projects!;Let's+collaborate+and+create!" alt="Typing SVG" />
 </p>
 
 ---
