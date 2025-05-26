@@ -10,14 +10,8 @@
 ### 🌐 Connect With Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/heyitssj" target="_blank">
+  <a href="https://www.linkedin.com/in/heyitssj" target="_app">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/https://leetcode.com/u/heyitsj/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/jhashweuwei/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
