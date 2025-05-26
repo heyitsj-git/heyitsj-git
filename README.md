@@ -39,9 +39,9 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [🔍 DeepSeek AI Clone](https://github.com/heyitsj-git/deepseek-ai-clone) | `Next.js`, `Tailwind`, `OpenAI API` | A clone of DeepSeek AI with advanced prompt UI and LLM-based search |
-| [📈 DevPortfolio](https://github.com/heyitsj-git/dev-portfolio) | `React`, `Framer Motion`, `SCSS` | A modern, responsive developer portfolio site |
-
+| [🤖 DeepSeek AI Clone](https://github.com/heyitsj-git/deepseek-ai-clone) | `Next.js`, `Tailwind`, `OpenAI API`,`MongoDB` | A clone of DeepSeek AI with advanced prompt UI and LLM-based search |
+| [🌤️ Weather Web App](https://github.com/heyitsj-git/Weather-Forecast-WebApp) | `HTML`, `CSS`, `Javascript` | An API-powered web app that provides precise, real-time weather forecasts across the globe.|
+| [🌾 Agri.Sol AI Website](https://github.com/heyitsj-git/Weather-Forecast-WebApp) | `HTML`, `CSS`, `Javascript`,`MongoDB`,`Express`,`NodeJS`,`Flask`,`Kaggle`  | An API-powered web app that provides precise, real-time weather forecasts across the globe.|
 
 ---
 
@@ -51,15 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=heyitsj-git&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsj-git&layout=compact&theme=tokyonight" height="160"/>
 </p>
-
----
-
-### 🧠 Currently Learning:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
