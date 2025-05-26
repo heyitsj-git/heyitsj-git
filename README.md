@@ -39,9 +39,9 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [🤖 DeepSeek AI Clone](https://github.com/heyitsj-git/deepseek-ai-clone) | Next.js, Tailwind, OpenAI API,MongoDB | A clone of DeepSeek AI with advanced prompt UI and LLM-based search |
-| [🌤️ Weather Web App](https://github.com/heyitsj-git/Weather-Forecast-WebApp) | HTML, CSS, Javascript,OpenWeather API| An API-powered web app that provides precise, real-time weather forecasts across the globe.|
-| [🌾 Agri.Sol AI Website](https://github.com/heyitsj-git/AgriSol-WebApp) | HTML, CSS, Javascript,MongoDB,Express,NodeJS,Flask,Kaggle  | An API-powered web app that provides precise, real-time weather forecasts across the globe.| (make this table similar color themed as above)
+| [🤖 DeepSeek AI Clone](https://github.com/heyitsj-git/deepseek-ai-clone) | `Next.js`, `Tailwind`, `OpenAI API`, `MongoDB` | A clone of DeepSeek AI with advanced prompt UI and LLM-based search |
+| [🌤️ Weather Web App](https://github.com/heyitsj-git/Weather-Forecast-WebApp) | `HTML`, `CSS`, `Javascript`, `OpenWeather API`| An API-powered web app that provides precise, real-time weather forecasts across the globe.|
+| [🌾 Agri.Sol AI Website](https://github.com/heyitsj-git/AgriSol-WebApp) | `HTML`, `CSS`, `Javascript`, `MongoDB`, `Flask`, `Python`, `NodeKJS`, `Express` | An API-powered web app that provides precise, real-time weather forecasts across the globe.| (make this table similar color themed as above)
 
 
 ---
