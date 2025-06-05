@@ -20,7 +20,7 @@
 ### 🧠 About Me:
 
 - 🎓 **Computer Science Undergraduate**  
-- ☁️ **Cloud Enthusiast**: Familiar with AWS, Azure, GCP, and Terraform  
+- ☁️ **Cloud Enthusiast**: Familiar with AWS and Azure
 - 💻 **Web Developer**: Proficient in building modern and user-friendly websites  
 - 🧩 **Competitive Programmer**: Passionate about problem-solving and coding challenges   
 - 🏆 **Achievements**:
