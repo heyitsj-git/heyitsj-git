@@ -35,7 +35,7 @@
 |--------|------------|-------------|
 | [🤖 DeepSeek AI Clone](https://github.com/heyitsj-git/deepseek-ai-clone) | `Next.js`, `Tailwind`, `OpenAI API`, `MongoDB` | A clone of DeepSeek AI with advanced prompt UI and LLM-based search |
 | [🌤️ Weather Web App](https://github.com/heyitsj-git/Weather-Forecast-WebApp) | `HTML`, `CSS`, `Javascript`, `OpenWeather API`| An API-powered web app that provides precise, real-time weather forecasts across the globe.|
-| [🌾 Agri.Sol AI Website](https://github.com/heyitsj-git/AgriSol-WebApp) | `HTML`, `CSS`, `Javascript`, `MongoDB`, `Flask`, `Python`, `NodeKJS`, `Express` | An AI Web solution to agricultural problems.| 
+| [🌾 Agri.Sol AI Website](https://github.com/heyitsj-git/AgriSol-WebApp) | `HTML`, `CSS`, `Javascript`, `MongoDB`, `Flask`, `Python`, `NodeJS`, `Express` | An AI Web solution to agricultural problems.| 
 
 
 ---
