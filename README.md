@@ -41,11 +41,12 @@
 ### 🏅 LeetCode Achievements
 
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="70px" title="100 Days Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="70px" title="50 Days Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2025-08.gif" width="70px" title="August Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2025-07.gif" width="70px" title="July Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2025-06.gif" width="70px" title="June Badge 2025" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"></img>
 </p>
 
 <p align="center">
@@ -83,7 +84,7 @@
 
 ---
 
-### 🪩 Tools & Technologies
+### 🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,flask,git,github,aws,azure,figma,vscode&theme=light" />
