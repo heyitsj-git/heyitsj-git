@@ -19,24 +19,21 @@
 
 ### 🧠 About Me:
 
-- 🎓 **Computer Science Undergraduate**  
-- ☁️ **Cloud Enthusiast**: Familiar with AWS and Azure
-- 💻 **Web Developer**: Proficient in building modern and user-friendly websites  
-- 🧩 **Competitive Programmer**: Passionate about problem-solving and coding challenges   
-- 🏆 **Achievements**:
-  - Participated in various coding competitions   
+* 🎓 **Computer Science Undergraduate**
+* ☁️ **Cloud Enthusiast**: Familiar with AWS and Azure
+* 💻 **Web Developer**: Proficient in building modern and user-friendly websites
+* 🧩 **Competitive Programmer**: Passionate about problem-solving and coding challenges
+* 🏆 **Achievements**: Participated in various coding competitions
 
 ---
 
-
 ### 🚀 Featured Projects:
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| [🤖 DeepSeek AI Clone](https://github.com/heyitsj-git/deepseek-ai-clone) | `Next.js`, `Tailwind`, `OpenAI API`, `MongoDB` | A clone of DeepSeek AI with advanced prompt UI and LLM-based search |
-| [🌤️ Weather Web App](https://github.com/heyitsj-git/Weather-Forecast-WebApp) | `HTML`, `CSS`, `Javascript`, `OpenWeather API`| An API-powered web app that provides precise, real-time weather forecasts across the globe.|
-| [🌾 Agri.Sol AI Website](https://github.com/heyitsj-git/AgriSol-WebApp) | `HTML`, `CSS`, `Javascript`, `MongoDB`, `Flask`, `Python`, `NodeJS`, `Express` | An AI Web solution to agricultural problems.| 
-
+| Project                                                                       | Tech Stack                                                                     | Description                                                                                 |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| [🤖 DeepSeek AI Clone](https://github.com/heyitsj-git/deepseek-ai-clone)      | `Next.js`, `Tailwind`, `OpenAI API`, `MongoDB`                                 | A clone of DeepSeek AI with advanced prompt UI and LLM-based search                         |
+| [🌤️ Weather Web App](https://github.com/heyitsj-git/Weather-Forecast-WebApp) | `HTML`, `CSS`, `Javascript`, `OpenWeather API`                                 | An API-powered web app that provides precise, real-time weather forecasts across the globe. |
+| [🌾 Agri.Sol AI Website](https://github.com/heyitsj-git/AgriSol-WebApp)       | `HTML`, `CSS`, `Javascript`, `MongoDB`, `Flask`, `Python`, `NodeJS`, `Express` | An AI Web solution to agricultural problems.                                                |
 
 ---
 
@@ -44,51 +41,50 @@
 
 <p align="center">
   <a href="https://github.com/heyitsj-git">
-    <img align="center"
-         height="150em"
-         src="https://streak-stats.demolab.com?user=heyitsj-git&theme=aura&hide_border=false&border_radius=10" />
+    <img align="center" height="150em" src="https://streak-stats.demolab.com?user=heyitsj-git&theme=aura&hide_border=false&border_radius=10" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/heyitsj-git">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heyitsj-git&theme=aura"
-    />
+    <img align="center" height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heyitsj-git&theme=aura" />
+  </a>
   <a href="https://github.com/heyitsj-git">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyitsj-git&theme=aura"
-    />
+    <img align="center" height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyitsj-git&theme=aura" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/heyitsj-git">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyitsj-git&theme=aura"
-    />
+    <img align="center" height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyitsj-git&theme=aura" />
+  </a>
   <a href="https://github.com/heyitsj-git">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heyitsj-git&theme=aura&utcOffset=8"
-    />
+    <img align="center" height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heyitsj-git&theme=aura&utcOffset=8" />
+  </a>
 </p>
 
 <p align="center">
- <a href="https://github.com/heyitsj-git">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyitsj-git&theme=aura"
-    />
+  <a href="https://github.com/heyitsj-git">
+    <img align="center" height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyitsj-git&theme=aura" />
+  </a>
 </p>
-
 
 ---
 
+### 🧩 LeetCode Stats & Badges
 
-  
+<p align="center">
+  <a href="https://leetcode.com/u/heyitsj/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/heyitsj?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=heyitsj&theme=aura" alt="LeetCode Badges" />
+</p>
+
+---
+
 ### 🥂 Let's Build Something Great Together!
 
 > *"Coding is poetry. Every line you write creates a universe"*
@@ -96,7 +92,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0:C8A2C8,100:0072ff" />
 </p>
-
 
 <!---
 U4Universe/U4Universe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
