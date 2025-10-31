@@ -41,12 +41,8 @@
 ### 🏅 LeetCode Achievements
 
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
-<img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" width="40px"></img>
-<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="40px"></img>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="40px"></img>
+<img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="40px"></img>
 </p>
 
 <p align="center">
