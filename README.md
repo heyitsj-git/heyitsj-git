@@ -1,10 +1,4 @@
-<!-- 🌸 Professional Galaxy-Themed GitHub Profile by Shweta Jha 🌸 -->
 
-<!-- Elegant Pink & Purple Aesthetic | Clean, Professional Layout -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=0:ffb6c1,50:d8b4fe,100:c084fc&section=header&animation=fadeIn" />
-</p>
 
 <h1 align="center" style="color:#d8b4fe;">✨ Hello World, I'm <span style="color:#ffb6c1;">Shweta Jha</span> ✨</h1>
 <h3 align="center" style="color:#c084fc;">💻 Full-Stack Developer | 🎓 CS Undergraduate</h3>
