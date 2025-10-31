@@ -9,6 +9,16 @@
 
 ---
 
+### 🏆 GitHub Achievements  
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=heyitsj-git&theme=dracula&margin-w=10&margin-h=10&no-frame=true&title=Commits,Repositories,PullRequest,Issues,Stars,Followers&column=4&row=2" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -88,9 +98,16 @@
 
 ---
 
-### 🌷 Let's Build Something Beautiful
+### 🐍 Contribution Snake  
 
-> 💜 *“Code with creativity, build with purpose.”*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heyitsj-git/heyitsj-git/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+### 💫 I Believe
+> "Coding is like poetry, we can create worlds through words 💜"
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0:c084fc,50:d8b4fe,100:ffb6c1&section=footer" />
