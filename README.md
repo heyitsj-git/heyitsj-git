@@ -76,7 +76,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=heyitsj-git&theme=2077&hide_border=false&border_radius=10&background=EBDEF0&ring=ffb6c1&fire=c084fc&currStreakLabel=d8b4fe"/>
+  <img height="160em" 
+       src="https://streak-stats.demolab.com?user=heyitsj-git&theme=radical&hide_border=false&border_radius=10&background=0D1117&ring=ffb6c1&fire=c084fc&currStreakLabel=d8b4fe"/>
 </p>
 
 <p align="center">
@@ -101,7 +102,7 @@
 ### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/heyitsj-git/heyitsj-git/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/heyitsj-git/heyitsj-git/main/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
