@@ -48,7 +48,7 @@
 
 ---
 
-### 🏅 LeetCode Achievements
+### 🏅 LeetCode Stats
 
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="40px"></img>
