@@ -99,14 +99,6 @@
 
 ---
 
-### 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/heyitsj-git/heyitsj-git/main/github-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 ### 💫 I Believe
 > "Coding is like poetry, we can create worlds through words 💜"
 
