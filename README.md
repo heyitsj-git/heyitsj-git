@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/heyitssj" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23ffb6c1.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%23ffb6c1.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://leetcode.com/u/heyitsj/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23d8b4fe.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
