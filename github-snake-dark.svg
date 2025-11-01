@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Soft Galaxy Mist - Contribution Snake (pink/purple theme)
+     Save as output/github-snake-dark.svg and link from README.
+     If GitHub sanitizes animation, a static snake/grid will still appear.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- pastel gradient for cells -->
+    <linearGradient id="cellGrad" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffb6c1"/>
+      <stop offset="1" stop-color="#d8b4fe"/>
+    </linearGradient>
+
+    <!-- subtle cell gloss -->
+    <linearGradient id="gloss" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- glow for snake -->
+    <radialGradient id="snakeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffb6c1" stop-opacity="0.95"/>
+      <stop offset="0.5" stop-color="#c084fc" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#d8b4fe" stop-opacity="0.08"/>
+    </radialGradient>
+
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feBlend in="SourceGraphic" in2="b"/>
+    </filter>
+
+    <!-- moving gradient stroke for path -->
+    <linearGradient id="moveGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffb6c1"/>
+      <stop offset="50%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#d8b4fe"/>
+    </linearGradient>
+
+    <!-- keyframes style: SMIL animateMotion is used below -->
+  </defs>
+
+  <!-- background rounded panel (glass-like) -->
+  <rect x="8" y="8" rx="12" ry="12" width="884" height="124" fill="#07050a" fill-opacity="0.14"/>
+
+  <!-- title text -->
+  <g transform="translate(18,22)">
+    <text x="0" y="0" font-family="Poppins, Inter, Arial" font-weight="600"
+          font-size="16" fill="#d8b4fe">🧩 Contribution Snake</text>
+    <text x="0" y="20" font-family="Poppins, Inter, Arial" font-size="11" fill="#c8b7e8" opacity="0.95">
+      A decorative contribution-style visualization — pastel pink & purple theme
+    </text>
+  </g>
+
+  <!-- grid parameters -->
+  <!-- 12 columns x 7 rows (compact) -->
+  <g id="grid" transform="translate(18,44)">
+    <!-- draw cells -->
+    <!-- cell size 54 x 14 spacing 6 -->
+    <!-- We compute positions in the SVG manually -->
+    <!-- Column offset dx, row offset dy -->
+    <g id="cells">
+      <!-- generate 12 cols x 7 rows -->
+      <!-- We'll produce rectangles with subtle gradient fill; some darker to suggest activity -->
+      <!-- Manually set an activity pattern to create a snake-like path -->
+      <!-- row 0..6, col 0..11 -->
+      <!-- Use an array of intensity classes via fill-opacity (higher -> looks active) -->
+    </g>
+  </g>
+
+  <!-- We'll create the snake path and animated circle -->
+  <g id="snakeLayer" transform="translate(18,44)">
+    <!-- path that traces through selected cell centers -->
+    <path id="snakePath" d="M27 20 L99 20 L99 62 L171 62 L171 104 L243 104 L315 104 L387 104 L387 62 L459 62 L531 62 L531 20 L603 20 L675 20"
+          fill="none" stroke="url(#moveGrad)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.18"/>
+    <!-- animated glowing pill that rides along the path -->
+    <g filter="url(#softBlur)">
+      <circle r="12" fill="url(#snakeGlow)" opacity="0.95">
+        <!-- animate the motion along the path -->
+        <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
+          <mpath xlink:href="#snakePath"/>
+        </animateMotion>
+      </circle>
+    </g>
+    <!-- solid moving dot for crisp center -->
+    <circle r="5" fill="#ffffff" opacity="0.95">
+      <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#snakePath"/>
+      </animateMotion>
+    </circle>
+  </g>
+
+  <!-- Static fallback: explicit grid cells (so if animations are stripped you still get a nice static image) -->
+  <g transform="translate(18,44)" aria-hidden="true">
+    <!-- We'll draw a 12x7 grid of rounded cells -->
+    <!-- cell width = 48, height = 18, gap x=8, gap y=6 -->
+    <!-- For brevity/clarity, enumerated coordinates -->
+    <!-- Row 0 -->
+    <g id="fallbackCells">
+      <!-- manually set fills to create a snake-like pattern -->
+      <!-- column 0..11 -->
+      <!-- row 0 -->
+      <rect x="0" y="0" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="56" y="0" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="112" y="0" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.10"/>
+      <rect x="168" y="0" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="224" y="0" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="280" y="0" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="336" y="0" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="392" y="0" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="448" y="0" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="504" y="0" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="560" y="0" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="616" y="0" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+
+      <!-- row 1 -->
+      <rect x="0" y="24" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.03"/>
+      <rect x="56" y="24" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="112" y="24" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.12"/>
+      <rect x="168" y="24" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.22"/>
+      <rect x="224" y="24" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.08"/>
+      <rect x="280" y="24" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="336" y="24" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="392" y="24" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="448" y="24" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="504" y="24" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="560" y="24" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="616" y="24" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+
+      <!-- row 2 -->
+      <rect x="0" y="48" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="56" y="48" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.18"/>
+      <rect x="112" y="48" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.28"/>
+      <rect x="168" y="48" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.32"/>
+      <rect x="224" y="48" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.16"/>
+      <rect x="280" y="48" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.08"/>
+      <rect x="336" y="48" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="392" y="48" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="448" y="48" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="504" y="48" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="560" y="48" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="616" y="48" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+
+      <!-- row 3 -->
+      <rect x="0" y="72" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="56" y="72" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="112" y="72" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.10"/>
+      <rect x="168" y="72" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.20"/>
+      <rect x="224" y="72" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.38"/>
+      <rect x="280" y="72" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.28"/>
+      <rect x="336" y="72" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.16"/>
+      <rect x="392" y="72" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.12"/>
+      <rect x="448" y="72" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.08"/>
+      <rect x="504" y="72" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="560" y="72" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="616" y="72" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+
+      <!-- row 4 -->
+      <rect x="0" y="96" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="56" y="96" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="112" y="96" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="168" y="96" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="224" y="96" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="280" y="96" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="336" y="96" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="392" y="96" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="448" y="96" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="504" y="96" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="560" y="96" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+      <rect x="616" y="96" rx="4" ry="4" width="48" height="18" fill="url(#cellGrad)" fill-opacity="0.06"/>
+    </g>
+
+    <!-- add gloss overlay for cells -->
+    <rect x="0" y="0" rx="8" ry="8" width="704" height="114" fill="url(#gloss)" opacity="0.12"/>
+  </g>
+
+  <!-- footer small caption -->
+  <g transform="translate(18,120)">
+    <text x="0" y="0" font-family="Inter, Arial" font-size="10" fill="#c8b7e8" opacity="0.85">
+      Designed for Shweta Jha — Soft Galaxy Mist • commit this file to output/github-snake-dark.svg
+    </text>
+  </g>
+</svg>
