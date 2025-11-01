@@ -101,7 +101,7 @@
 ### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/heyitsj-git/heyitsj-git/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/heyitsj-git/heyitsj-git/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
