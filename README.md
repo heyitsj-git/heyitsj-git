@@ -76,11 +76,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" 
-       src="https://streak-stats.demolab.com?user=heyitsj-git&theme=radical&hide_border=false&border_radius=10&background=0D1117&ring=ffb6c1&fire=c084fc&currStreakLabel=d8b4fe"/>
-</p>
-
-<p align="center">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyitsj-git&theme=2077"/>
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heyitsj-git&theme=2077"/>
 </p>
