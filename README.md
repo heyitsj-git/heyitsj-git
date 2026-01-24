@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,18,20,24&text=Shweta%20Jha&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Cloud%20Explorer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+my+Digital+Universe+!;Building+AI-Powered+Solutions.;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+my+Digital+Universe!;Building+AI-Powered+Solutions.;" alt="Typing SVG" /></a>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -43,16 +43,6 @@ const shwetaJha = {
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=heyitsj-git&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=heyitsj-git&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&row=1&title=Commits,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=heyitsj-git&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&row=1&title=Stars,Followers,MultiLanguage,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🎖️ Special Badges
 
