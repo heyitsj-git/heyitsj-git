@@ -228,17 +228,6 @@ Explore my complete portfolio of web applications, AI projects, and open-source 
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heyitsj-git&custom_title=Shweta's%20Contribution%20Graph&bg_color=0D1117&color=A78BFA&line=C084FC&point=FFB6C1&area_color=A78BFA&area=true&hide_border=true)
-
-
-</div>
-
----
-
 ## 💖 Support My Work
 
 <div align="center">
