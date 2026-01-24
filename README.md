@@ -172,15 +172,11 @@ Explore my complete portfolio of web applications, AI projects, and open-source 
 ## 🔥 LeetCode Journey
 
 <div align="center">
-
 <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="50px">
 <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="50px">
-
-<br><br>
-
+<br>
 <img src="https://leetcard.jacoblin.cool/heyitsj?theme=dark&font=Fira%20Code&ext=heatmap&width=500" alt="LeetCode Stats"/>
-
-
+<br>
 <a href="https://leetcode.com/u/heyitsj/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
