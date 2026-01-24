@@ -9,12 +9,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=heyitsj-git&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
 </div>
-
----
 
 ## 🎯 About Me
 
