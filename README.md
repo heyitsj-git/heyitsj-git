@@ -157,7 +157,11 @@ Explore my complete portfolio of web applications, AI projects, and open-source 
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyitsj-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=FFB6C1&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsj-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsj-git&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF"/> 
+### 🔥 Streak Stats & Contribution Heatmap
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=heyitsj-git&theme=radical&hide_border=true&background=0D1117&ring=C084FC&fire=FFB6C1&currStreakLabel=FFB6C1)
+
 </div>
 
 <div align="center">
@@ -231,9 +235,6 @@ Explore my complete portfolio of web applications, AI projects, and open-source 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heyitsj-git&custom_title=Shweta's%20Contribution%20Graph&bg_color=0D1117&color=A78BFA&line=C084FC&point=FFB6C1&area_color=A78BFA&area=true&hide_border=true)
 
-### 🔥 Streak Stats & Contribution Heatmap
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=heyitsj-git&theme=radical&hide_border=true&background=0D1117&ring=C084FC&fire=FFB6C1&currStreakLabel=FFB6C1)
 
 </div>
 
