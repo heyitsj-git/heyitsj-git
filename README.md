@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,18,20,24&text=Shweta%20Jha&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Cloud%20Explorer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+AI-Powered+Solutions+%F0%9F%A4%96;Crafting+Scalable+Web+Applications+%F0%9F%9A%80;Let's+Innovate+Together!+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+AI-Powered+Solutions+%F0%9F%A4%96;" alt="Typing SVG" /></a>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -220,16 +220,6 @@ Explore my complete portfolio of web applications, AI projects, and open-source 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
----
-
-## 🎵 Vibing To
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l4wj7wtremzk2wvy5ce7qm3baa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=a78bfa&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31l4wj7wtremzk2wvy5ce7qm3baa&redirect=true)
 
 </div>
 
