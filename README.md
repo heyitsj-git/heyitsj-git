@@ -25,7 +25,7 @@ const shwetaJha = {
     education: "Computer Science Undergraduate 🎓",
     currentFocus: ["Full-Stack Development", "AI/ML Integration", "Cloud Computing"],
     askMeAbout: ["Web Dev", "APIs", "Cloud Architecture", "AI Solutions"],
-    funFact: "I turn coffee into code and bugs into features! ☕→💻",
+    funFact: "I turn tea into code and bugs into features! ☕→💻",
     lifePhilosophy: "Code is poetry, create worlds through logic 💜"
 };
 ```
@@ -180,8 +180,6 @@ Explore my complete portfolio of web applications, AI projects, and open-source 
 
 <img src="https://leetcard.jacoblin.cool/heyitsj?theme=dark&font=Fira%20Code&ext=heatmap&width=500" alt="LeetCode Stats"/>
 
-### 💪 Problem Solving Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=heyitsj&theme=dark)
 
 <a href="https://leetcode.com/u/heyitsj/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
