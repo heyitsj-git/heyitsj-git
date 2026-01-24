@@ -107,7 +107,7 @@ const shwetaJha = {
 <td width="50%">
 
 ### 🤖 DeepSeek AI Clone
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=heyitsj-git&repo=deepseek-ai-clone&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/heyitsj-git/deepseek-ai-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=heyitsj-git&repo=deepseek-ai-clone-by-shweta-jha&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/heyitsj-git/deepseek-ai-clone)
 
 **Tech:** Next.js • Tailwind • OpenAI API • MongoDB
 
