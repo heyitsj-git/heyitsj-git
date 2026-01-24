@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,18,20,24&text=Shweta%20Jha&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Cloud%20Explorer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+AI-Powered+Solutions+%F0%9F%A4%96;Crafting+Scalable+Web+Applications+%F0%9F%9A%80;Let's+Innovate+Together!+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -44,12 +44,22 @@ const shwetaJha = {
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=heyitsj-git&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&row=2&title=Commits,Repositories,PullRequest,Issues,Stars,Followers,MultiLanguage" alt="GitHub Trophies" width="100%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=heyitsj-git&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- Achievement Badges -->
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=heyitsj-git&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&row=1&title=Commits,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=heyitsj-git&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&row=1&title=Stars,Followers,MultiLanguage,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 🎖️ Special Badges
 
-<img src="https://github.com/heyitsj-git/heyitsj-git/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+![GitHub Followers](https://img.shields.io/github/followers/heyitsj-git?style=for-the-badge&logo=github&logoColor=white&color=blueviolet)
+![GitHub Stars](https://img.shields.io/github/stars/heyitsj-git?style=for-the-badge&logo=github&logoColor=white&color=yellow)
+![Repositories](https://img.shields.io/badge/Total_Repos-Dynamic-brightgreen?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Total_Commits-1000+-blue?style=for-the-badge)
 
 </div>
 
@@ -225,15 +235,15 @@ Explore my complete portfolio of web applications, AI projects, and open-source 
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyitsj-git/heyitsj-git/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heyitsj-git/heyitsj-git/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heyitsj-git/heyitsj-git/output/github-contribution-grid-snake.svg">
-</picture>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heyitsj-git&custom_title=Shweta's%20Contribution%20Graph&bg_color=0D1117&color=A78BFA&line=C084FC&point=FFB6C1&area_color=A78BFA&area=true&hide_border=true)
+
+### 🔥 Streak Stats & Contribution Heatmap
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=heyitsj-git&theme=radical&hide_border=true&background=0D1117&ring=C084FC&fire=FFB6C1&currStreakLabel=FFB6C1)
 
 </div>
 
